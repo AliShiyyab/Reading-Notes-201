@@ -1,14 +1,18 @@
 # Code 201 Reading Notes
 
 >About Ali 
-<br>
-* Name: Ali Akef Mahmoud Abed-Alrahman <br>
-* Age: I've 23 years Old. <br>
-* Degree: I graduated from Yramouk uni. Specially Computer information system. <br>
-* Adress: Jordan / Irbid<br>
+
+* Name: Ali Akef Mahmoud Abed-Alrahman
+
+* Age: I've 23 years Old. 
+
+* Degree: I graduated from Yramouk uni. Specially Computer information system. 
+
+* Adress: Jordan / Irbid
+
 * Course: Welcome in Reading-Notes-201 ASAC Course.
 
-<br><br>
+
 
 >## All 15 Reading Notes 
 Reading name     | Reading page
