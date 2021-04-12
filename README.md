@@ -19,7 +19,6 @@
 
 Reading name     | Reading page
 ---------------- | ----------------------
-**Read1**        | [Read_1](Read1.md)
 **Read2**        | [Read_2](Read2.md)
 **Read3**        | [Read_3](Read3.md)
 **Read4**        | [Read_4](Read4.md)
