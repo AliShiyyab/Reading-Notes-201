@@ -23,7 +23,7 @@ Reading name     | Reading page
 **Read3**        | [Read_3](Read3.md)
 **Read4**        | [Read_4](Read4.md)
 **Read5**        | [Read_5](Read5.md)
-**Read6**        | [Read_6](Read6.md)
+**Read6**        | [Read_6](read6.md)
 **Read7**        | [Read_7](Read7.md)
 **Read8**        | [Read_8](Read8.md)
 **Read9**        | [Read_9](Read9.md)
